@@ -1,0 +1,12 @@
+p, h1
+{
+    font-family: sans-serif;
+    text-align-last: center;
+}
+
+header
+{
+    background-color: purple;
+    padding: 10px;
+    color: white;
+}
